@@ -1,0 +1,6 @@
+C:\Users\Pranali\Desktop\IAD Project\MajestyCuisine\MajestyCuisine\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Pranali\Desktop\IAD Project\MajestyCuisine\MajestyCuisine\obj\Debug\MajestyCuisine.njsprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\IAD Project\MajestyCuisine\MajestyCuisine\obj\Debug\MajestyCuisine.njsprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\IAD Project\MajestyCuisine\MajestyCuisine\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Pranali\Desktop\IAD Project_Friday\IAD Project\MajestyCuisine\MajestyCuisine\obj\Debug\MajestyCuisine.njsprojResolveAssemblyReference.cache
+C:\Users\Pranali\Desktop\IAD Project_Friday\IAD Project\MajestyCuisine\MajestyCuisine\bin\Microsoft.NodejsTools.WebRole.dll
